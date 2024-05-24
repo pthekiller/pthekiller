@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Ngp Quoc Phuong , I'm from Viet Nam
+I'm currently unamiliar to coding but wanted to start learing about it for my Data Science school program
+I'm a student at VNU-HCMUS ( Ho Chi Minh University of Science) 
+Goodbye
